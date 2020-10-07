@@ -29,4 +29,8 @@
   .footerMenu ul {
     margin-top: 70px;
   }
+
+  .newTitle {
+    max-width: unset;
+  }
 }
